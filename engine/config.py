@@ -1,0 +1,2 @@
+ASSISTANT_NAME = 'Hansa'
+ASSISTANT_NAME_URDU = 'ہنسا'
