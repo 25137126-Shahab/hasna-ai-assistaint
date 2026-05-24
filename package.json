@@ -1,0 +1,26 @@
+{
+  "name": "hasna-ai-assistant",
+  "version": "1.0.0",
+  "description": "Hasna - AI Assistant with multilingual support",
+  "main": "www/index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "ai-assistant",
+    "chatbot",
+    "voice-recognition",
+    "multilingual"
+  ],
+  "author": "25137126-Shahab",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
